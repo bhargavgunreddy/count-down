@@ -6,6 +6,7 @@
 .pnp.js
 src/.cache
 dist
+.cache
 
 # testing
 /coverage
